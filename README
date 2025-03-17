@@ -1,0 +1,19 @@
+# Fetch Rewards Coding Exercise
+
+## Overview
+This is my solution for the Fetch Rewards Coding Exercise.  
+The app retrieves data from an API, filters out blank names, sorts the items by `listId`, and orders names numerically.
+
+## Features
+- Uses Retrofit to fetch data.
+- Filters out items with empty or null names.
+- Groups items by `listId` and sorts by name numerically.
+- Displays data in a RecyclerView with section headers.
+
+## Setup
+1. Clone the repository:
+2. Open the project in **Android Studio**.
+3. Run the app on an **emulator or physical device**.
+
+## Contact
+If you have any questions, feel free to reach out!
